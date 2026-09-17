@@ -4,7 +4,7 @@
 
 ## 📌 Sobre el proyecto
 
-Proyecto desarrollado a partir de una idea propia: analizar hasta qué punto los datos de rendimiento permiten predecir qué jugadores serán seleccionados para el NBA All-Star y estudiar, mediante modelos estadísticos, la posible existencia de sesgos en el proceso de selección.
+Proyecto desarrollado a partir de una idea propia: analizar hasta qué punto los datos de rendimiento permiten, utilizando distintos modelos de Machine Learning, predecir qué jugadores serán seleccionados para el NBA All-Star y estudiar, mediante modelos estadísticos, la posible existencia de sesgos en el proceso de selección.
 Una parte central del trabajo fue la **construcción del dataset desde cero**, integrando y limpiando distintas fuentes de información sobre jugadores, temporadas y selecciones All-Star entre **1996 y 2022**.
 
 El proyecto abarca el pipeline completo de Ciencia de Datos:
@@ -14,6 +14,8 @@ El proyecto abarca el pipeline completo de Ciencia de Datos:
 ## 🤖 Resultados
 
 Se compararon **Logistic Regression, Decision Tree y Random Forest**.
+
+Para la optimización de hiperparámetros se utilizó **Grid Search con validación cruzada (10-fold cross-validation)**
 
 El mejor modelo fue **Random Forest**, alcanzando:
 
