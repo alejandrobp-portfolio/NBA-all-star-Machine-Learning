@@ -1,4 +1,4 @@
-# 🏀 Minado y predicción del NBA All-Star utilizando Machine Learning y P-valor
+# 🏀 Minado, predicción y evaluación del NBA All-Star utilizando Machine Learning y P-valor
 
 ### Tesis de Máster en Ciencia de Datos — Tilburg University
 
